@@ -1,3 +1,5 @@
+// https://cdn.jsdelivr.net/gh/abhaykhawas/timmerJS-CDN/main.js
+
 export class Timmer {
     constructor(hh=0, mm=0, ss=0) {
         this.hh = hh
