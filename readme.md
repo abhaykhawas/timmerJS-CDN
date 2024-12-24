@@ -54,3 +54,7 @@ document.getElementById('pause_timmer').addEventListener('click', () => {
   time1.pauseTimmer();  // Pauses the timer but doesn't reset it
 });
 ```
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
